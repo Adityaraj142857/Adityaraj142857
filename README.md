@@ -85,11 +85,7 @@
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adityaraj142857&theme=tokyonight" width="46%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adityaraj142857&utcOffset=5.5&theme=tokyonight" width="46%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Adityaraj142857&theme=tokyonight&hide_border=true&background=00000000&stroke=8B5CF6&ring=22D3EE&fire=F472B6&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" width="62%" />
+<img src="https://streak-stats.demolab.com/?user=Adityaraj142857&theme=tokyonight&hide_border=true&background=00000000&stroke=8B5CF6&ring=22D3EE&fire=F472B6&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" width="50%" />
 
 </div>
 
