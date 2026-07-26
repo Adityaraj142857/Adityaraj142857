@@ -95,13 +95,90 @@
 
 <br/>
 
-## 🌌 『 CURSED ENERGY OUTPUT 』
+## 🐍 『 CURSED ENERGY OUTPUT 』
 
 <div align="center">
+
+<i>a serpent of cursed energy devours a year of commits 🌀</i>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityaraj142857/Adityaraj142857/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adityaraj142857/Adityaraj142857/output/snake-light.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Adityaraj142857/Adityaraj142857/output/snake-dark.svg" width="98%" />
+</picture>
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityaraj142857&theme=tokyo-night&bg_color=00000000&hide_border=true&color=22D3EE&line=8B5CF6&point=F472B6&area=true" width="98%" />
 
 <i>every spike is a night the code fought back — and lost 🌙</i>
+
+</div>
+
+<br/>
+
+## ⚔️ 『 S-RANK GATES CLEARED 』
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌀 [chat2pdf](https://github.com/Adityaraj142857/chat2pdf)
+`TypeScript`
+Export Claude / ChatGPT / Gemini conversations to PDF, Markdown, CSV or JSON — themes, TOC, per-message selection.
+<br/><img src="https://img.shields.io/badge/Gate-A_Rank-8B5CF6?style=flat-square&labelColor=0F0C29"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎼 [music-instrument-detector](https://github.com/Adityaraj142857/music-instrument-detector)
+`Python` · `Demucs + CNN`
+Detects 12 instruments with per-second timestamps — including Tabla, Sitar, Bansuri & Dhol.
+<br/><img src="https://img.shields.io/badge/Gate-S_Rank-F472B6?style=flat-square&labelColor=0F0C29"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 [Drishti](https://github.com/Adityaraj142857/Drishti)
+`Python` · `Kite Connect`
+Quant risk analytics for Indian equities — factor research, regime-conditioned VaR, walk-forward backtesting, MCP copilot.
+<br/><img src="https://img.shields.io/badge/Gate-S_Rank-F472B6?style=flat-square&labelColor=0F0C29"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🕉️ [GeetaAI](https://github.com/Adityaraj142857/GeetaAI)
+`Python` · `LLM`
+Bringing the Bhagavad Gita into conversation with a language model.
+<br/><img src="https://img.shields.io/badge/Gate-B_Rank-22D3EE?style=flat-square&labelColor=0F0C29"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 [ai-rag_eval](https://github.com/Adityaraj142857/ai-rag_eval)
+`Python` · `RAG`
+Evaluation harness for retrieval-augmented generation pipelines.
+<br/><img src="https://img.shields.io/badge/Gate-A_Rank-8B5CF6?style=flat-square&labelColor=0F0C29"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 [invoice-ocr](https://github.com/Adityaraj142857/invoice-ocr)
+`Python` · `OCR`
+Pulling structure out of unstructured invoices.
+<br/><img src="https://img.shields.io/badge/Gate-B_Rank-22D3EE?style=flat-square&labelColor=0F0C29"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
